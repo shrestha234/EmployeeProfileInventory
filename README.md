@@ -1,0 +1,2 @@
+# EmployeeProfileInventory
+Utilizing Java Spring Boot framework to set up a RESTful web service that maintains an employee profile inventory. The service is set up to utilize the CRUD operations – Create, Retrieve, Update, and Delete. All the http methods (GET, PUT, POST, &amp; DELETE) are set up in the Postman application for a robust testing. The service will be connected to MySQL database which is in progress.
